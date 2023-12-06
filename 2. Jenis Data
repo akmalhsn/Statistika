@@ -1,0 +1,16 @@
+# Jenis Data 
+Tipe data dibagi menjadi dua jenis yaitu,
+- tipe data numerik (kuantitatif) berkaitan dengan data yang mengandung angka
+  -  tipe data kontinu (hasil pengukuran), tipe data ini memiliki nilai pecahan/koma
+      - misal, kecepatan mobil, waktu tunggu pesawat di bandara  
+  -  tipe data diskrit (hasil perhitungan), tipe data ini memiliki nilai bulat
+      - misal, jumlah manusia, jumlah hewan  
+- tipe data kategorik (kualitatif) berkaitan dengan unsur tertentu 
+  -  tipe data nominal, tipe data kategorik yang tidak memiliki urutan 
+      - misal jenis kelamin, gender, agama
+  -  tipe data ordinal,  tipe data kategorik yang memiliki urutan
+      - misal pertanyaan survei dengan skala tertentu
+
+Kenapa kita perlu mengetahui tipe data ?
+  - karena setiap tipe data akan menentukan jenis summary statistika dan visualisasi yang digunakan jika tidak sesuai maka interpretasi data akan salah
+  - misal pada sebuah data numerik dapat ditampilkan dalam bentuk scatter plot namun tidak dapat ditampilkan dalam bentuk barplot
